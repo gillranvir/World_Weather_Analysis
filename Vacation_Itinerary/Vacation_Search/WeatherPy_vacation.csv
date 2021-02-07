@@ -1,0 +1,68 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+23,College,US,251.48,mist,64.8569,-147.8028,Pike's Waterfront Lodge
+46,Barrow,US,254.15,mist,71.2906,-156.7887,King Eider Inn
+58,Nenjiang,CN,247.57,few clouds,49.1833,125.2167,Nenjiang Apartment
+61,Yellowknife,CA,238.71,clear sky,62.456,-114.3525,The Explorer Hotel
+69,Haines Junction,CA,250.15,overcast clouds,60.7522,-137.5108,Parkside Inn
+82,Aklavik,CA,241.15,light snow,68.2191,-135.0107,Aklavik Inn
+89,Yar-Sale,RU,238.25,overcast clouds,66.8333,70.8333,Yalemd
+90,Zalantun,CN,250.94,clear sky,48.0,122.7167,GreenTree Alliance Hulunbeier Zhalantun Railway Station Hotel
+98,Tiksi,RU,240.62,overcast clouds,71.6872,128.8694,Arktika
+99,Batyrevo,RU,254.41,overcast clouds,55.0675,47.6111,Gostinitsa Yukhma
+100,Norman Wells,CA,237.15,broken clouds,65.282,-126.8329,Heritage Hotel
+129,Fuyu,CN,253.15,broken clouds,45.1833,124.8167,Education Hostel
+161,Atyashevo,RU,251.6,overcast clouds,54.5644,46.0691,Motel Atyshevo
+179,Solnechnyy,RU,252.8,overcast clouds,50.7214,136.6319,Hotel complex Pastoral
+185,Baruun-Urt,MN,250.14,clear sky,46.6806,113.2792,Ахмадын амралт сувилал
+209,Mandalgovi,MN,258.33,clear sky,45.7625,106.2708,В.Ганбат
+212,Fairbanks,US,252.04,snow,64.8378,-147.7164,Westmark Fairbanks Hotel & Conference Center
+214,Beringovskiy,RU,249.67,scattered clouds,63.05,179.3167,Beringgorski
+230,Pevek,RU,252.92,broken clouds,69.7008,170.3133,Severnoye Zoloto
+236,Khatanga,RU,235.31,clear sky,71.9667,102.5,"Gostinitsa ""Zapolyar'ye"""
+241,Tuktoyaktuk,CA,246.15,snow,69.4541,-133.0374,End of The Road Ltd.
+244,Carman,CA,248.15,overcast clouds,49.4992,-98.0016,"Bell Aura Bed, Breakfast & Bistro"
+252,Thompson,CA,241.15,snow,55.7435,-97.8558,Burntwood Hotel
+256,Ust-Ordynskiy,RU,254.15,clear sky,52.805,104.7508,Hotel Metelitsa
+269,Anadyr,RU,251.48,clear sky,64.75,177.4833,"Гостиница ""Анадырь"""
+282,Fort Nelson,CA,242.15,clear sky,58.8053,-122.7002,The Fort Nelson Hotel
+298,Meleuz,RU,257.15,overcast clouds,52.9667,55.9167,"Hotel ""Agidel"""
+302,Uyemskiy,RU,259.15,light snow,64.4743,40.8524,Malyye Karely
+325,Svetlyy,RU,255.15,clear sky,54.675,20.1347,"Gostinitsa-Kafe, Alena"
+335,Tazovskiy,RU,240.58,broken clouds,67.4667,78.7,TazHostel
+336,Tynda,RU,243.3,broken clouds,55.1667,124.7167,Medis
+356,La Ronge,CA,244.15,broken clouds,55.1001,-105.2842,Northland Motor Hotel
+388,Orlik,RU,251.97,scattered clouds,52.5178,99.825,Gostevoy Dom Mini Gostinitsa
+400,Clyde River,CA,248.15,broken clouds,70.4692,-68.5914,Qamaq Hotel
+401,Kaitong,CN,256.82,broken clouds,44.8135,123.15,Jinhe Fashion Hotel
+419,Miles City,US,257.15,overcast clouds,46.4083,-105.8406,FairBridge Inn & Suites Miles City
+429,Talnakh,RU,239.25,clear sky,69.4865,88.3972,Talnakh Hotel
+430,Udachnyy,RU,235.1,clear sky,66.4167,112.4,Severnoye Siyaniye
+432,Khor,RU,246.65,overcast clouds,47.8861,134.9464,Gostinitsa Deksi
+438,North Battleford,CA,245.15,clear sky,52.7834,-108.2847,Tropical Inn
+456,Urusha,RU,246.61,overcast clouds,54.05,122.9,Dom Otdykha Lokomotivnykh Brigad
+458,Zhigansk,RU,232.66,overcast clouds,66.7697,123.3711,Gostinichnyy Kompleks Aylgy
+466,Tommot,RU,243.02,overcast clouds,58.9564,126.2925,Gostinitsa Tommot
+477,Naryan-Mar,RU,240.05,overcast clouds,67.6713,53.086999999999996,Hostel Agat
+485,Listvyanka,RU,254.15,clear sky,51.8535,104.8693,"Istlend, Gornolyzhnyy Tsentr"
+500,Amurzet,RU,250.1,overcast clouds,47.6967,131.0981,Gostinitsa Kvartirnogo Tipa
+511,Darhan,MN,253.76,light snow,49.4867,105.9228,Buudai Hotel
+518,Soltsy,RU,256.32,broken clouds,58.1239,30.3238,Gostinitsa
+522,Zeya,RU,245.54,clear sky,53.75,127.2667,Kapital Inn
+529,Hay River,CA,242.15,few clouds,60.8156,-115.7999,Ptarmigan Inn Hotels
+530,High Level,CA,243.15,clear sky,58.5169,-117.13600000000001,Days Inn by Wyndham High Level
+536,Spirit River,CA,247.04,broken clouds,55.7833,-118.8361,Motel 49
+540,Kuytun,RU,259.96,overcast clouds,54.3419,101.5036,Gostinitsa Tsentral'naya
+546,Cherskiy,RU,250.65,clear sky,68.75,161.3,Gostinitsa
+556,Romodanovo,RU,251.78,overcast clouds,54.4275,45.3296,Romodanovo Saransk Apartment
+570,Gubkinskiy,RU,253.55,overcast clouds,64.434,76.5026,MonarcH
+574,Zheleznodorozhnyy,RU,256.15,scattered clouds,55.7503,38.0042,Hotel Dali
+607,Vegreville,CA,248.15,overcast clouds,53.5001,-112.0518,Wild Rose Inn
+626,Svetlogorsk,BY,256.73,few clouds,52.6333,29.7333,Hotel Svetlogorsk JBIK
+641,Okha,RU,254.72,overcast clouds,53.5739,142.9478,Империя
+653,Tarko-Sale,RU,252.36,overcast clouds,64.9225,77.785,Yubileynaya
+673,Marfino,RU,256.15,broken clouds,55.7028,37.3822,ARK guest house
+675,Peski,RU,256.15,scattered clouds,55.2163,38.7626,Dachi Khudozhnikov
+676,Pangody,RU,242.64,broken clouds,65.85,74.4859,Elizaveta Shevchuk's House
+679,Athabasca,CA,248.15,overcast clouds,54.7169,-113.2854,Athabasca Lodge Motel
+691,Thunder Bay,CA,254.82,snow,48.4001,-89.3168,Victoria Inn Hotel and Convention Centre
+692,Namtsy,RU,230.15,fog,62.7161,129.6658,"""Эңсиэли Киин"""
